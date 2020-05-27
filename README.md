@@ -1,4 +1,4 @@
 # hello-world
 Hello world.
 
-My name is Nisha and I am a high school student whois interested in data science.
+My name is Nisha and I am a high school student who is interested in data science.
